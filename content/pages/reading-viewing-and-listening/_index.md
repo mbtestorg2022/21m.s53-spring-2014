@@ -452,7 +452,7 @@ The Indie Underground
 
 ### Reading
 
-Hsu, W., and C. Sargent. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Rocking Out Between the Local and the Global: Transnational Independent Music Industry in Taiwan." (PDF - 6.2MB)](http://www.amalgam.virginia.edu/Vol%202%20Iss%201/39.pdf) _Amalgam: The Virginia Interdisciplinary Gradudate Review_ 2, no. 1 (2008): 38–52.
+Hsu, W., and C. Sargent. ["Rocking Out Between the Local and the Global: Transnational Independent Music Industry in Taiwan." (PDF - 6.2MB)](http://www.amalgam.virginia.edu/Vol%202%20Iss%201/39.pdf) _Amalgam: The Virginia Interdisciplinary Gradudate Review_ 2, no. 1 (2008): 38–52.
 
 Hagood, M. "[Liminal States: Life as an Indie Musician on Taiwan](http://hdl.handle.net/2022/3246)." _Folklore Forum_ 38, no. 1 (2008): 82–101.
 
