@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: dbc0ee52-ebc3-2b0a-7e5f-4267b5bbd12d
 resourcetype: Image
 title: 21M-S53_classroom-1.jpg
 uid: 339a0ab3-75fe-49c3-bc49-6e8f092108ca
